@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [Course Rate](https://github.com/Navinas3460/CourseRate)
+- I’m currently working on [Course Rate](https://github.com/Navinas3460/CourseRate)
 
-- 🌱 I’m currently learning **AngularJS and ReactJS**
+- I’m currently learning **AngularJS and ReactJS**
 
-- 💬 Ask me about **VueJS, Flask**
+- Ask me about **VueJS, Flask**
 
-- 📫 How to reach me **nongavinashsingh@gmail.com**
+- How to reach me **nongavinashsingh@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10HCpb6w-Z29S-W30e11Gf_vqouHMOwR0/view?usp=sharing)
+- Know about my experiences [Resume](https://drive.google.com/file/d/10HCpb6w-Z29S-W30e11Gf_vqouHMOwR0/view?usp=sharing)
 
-- ⚡ Fun fact **I like anime.**
+- Fun fact **I like anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
